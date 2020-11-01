@@ -31,6 +31,16 @@ Le programme Hangman comprends le jeu du pendu, et un système de score.
 
 Hangman v1.0
 
+## TO-DO
+
+- Empêcher de réécrire plusieurs fois la lettre
+- Empêcher de mettre des caractères qui ne sont pas des lettres
+- Faire un menu plus beau
+- Faire un un menu qui affiche les meilleurs profils
+- Ajouter des paramètres à l'exécutable pour utiliser le dictionnaire de notre choix.
+- Améliorer l'affichage du jeu
+- Ajouter de la documentation
+
 ## Fichiers
 
 - Makefile
